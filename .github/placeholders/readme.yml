@@ -1,0 +1,12 @@
+REPO_TAGLINE: Digital control • discrete systems • stability analysis
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/SEL0620-Controle-Digital
+
+BG_1: "#0F1A0F"
+BG_2: "#1F3D1F"
+TEXT_MAIN: "#E6FFE6"
+TEXT_MUTED: "#A3D9A5"
+ACCENT: "#4ADE80"
+CARD_RADIUS: "18"
