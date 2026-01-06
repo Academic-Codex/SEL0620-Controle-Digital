@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0620-Controle-Digital">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:55.279987Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:37:45.053319Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
